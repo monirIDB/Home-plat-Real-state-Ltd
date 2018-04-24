@@ -1,0 +1,14 @@
+a:hover{
+    cursor: pointer;
+}
+
+.logout{
+    color: #fff;
+    text-decoration: none;
+}
+
+.logout:hover{
+    cursor: pointer;
+    color: #fff;
+    text-decoration: none;
+}
